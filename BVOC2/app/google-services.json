@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "279177329799",
+    "firebase_url": "https://bvoc-ff203.firebaseio.com",
+    "project_id": "bvoc-ff203",
+    "storage_bucket": "bvoc-ff203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279177329799:android:931a9a3d4274189d0f0c22",
+        "android_client_info": {
+          "package_name": "com.cs386.bvoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279177329799-pqsjj7v8f5j0nverdbb4an3tt0j73r4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cs386.bvoc",
+            "certificate_hash": "831cea37284cc79198388828d51f83e842415044"
+          }
+        },
+        {
+          "client_id": "279177329799-4s86f5mij9s150jt2o6cr77a44r3sf1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA53NHw9PTbgN4zbFNixGJpmhJ_zFbUGzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279177329799-4s86f5mij9s150jt2o6cr77a44r3sf1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

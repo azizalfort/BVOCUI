@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BVOC</string>
+    <string name="createNew">Create New Account</string>
+    <string name="fullName">Full Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="passW">Password</string>
+    <string name="signbtn">Sign Up</string>
+    <string name="exist">Already Have Account? Login Here!</string>
+    <string name="emailadrs">Email Address</string>
+    <string name="login">Log In</string>
+    <string name="logToAcc">Log In To your Account</string>
+    <string name="newMember">New Member? Sign In Here!</string>
+    <string name="mainDisp">This is The Main Page</string>
+    <string name="logOut">Log Out</string>
+    <string name="addFriend">Add Friend</string>
+    <string name="upText">Updates From Friends</string>
+    <string name="search">Search Friend</string>
+    <string name="title_activity_main">MainAct</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profilee">Profile</string>
+    <string name="msg">Send A Message</string>
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+    <string name="history">History</string>
+    <string name="fields">Create Field</string>
+    <string name="add">Add</string>
+    <string name="frndName">Freind Name</string>
+    <string name="mesg">Message ..</string>
+    <string name="recipient">Recipient</string>
+
+</resources>
